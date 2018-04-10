@@ -1,0 +1,16 @@
+bin/
+build/
+dist/
+rebel.xml
+.settings
+.classpath
+.project
+.gradle/
+.recommenders
+.checkstyle
+.eclipse-pmd
+.fbprefs
+out/
+/schema/
+/.idea/
+/*.iml
